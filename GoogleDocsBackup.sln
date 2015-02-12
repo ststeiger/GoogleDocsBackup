@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDocsBackup", "GoogleDocsBackup\GoogleDocsBackup.csproj", "{E97FB479-4C80-4E27-884D-D78A990F3336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDocBackupLib", "GDocBackupLib\GDocBackupLib.csproj", "{0A52C68A-0E5A-4DA5-B5ED-71502E1BB87F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDocBackupCMD", "GDocBackupCMD\GDocBackupCMD.csproj", "{FE34A3C5-FFC2-4463-A411-71A3B0BC3BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDocBackup", "GDocBackup\GDocBackup.csproj", "{F83C7F69-C33D-4C99-B278-AF8EE67013D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevAppGUI", "DevAppGUI\DevAppGUI.csproj", "{220D99AA-56CF-4AD6-A3E6-062BB29D3E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevApp", "DevApp\DevApp.csproj", "{2D513C45-B6CD-4B76-B48A-CB87774430D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97FB479-4C80-4E27-884D-D78A990F3336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97FB479-4C80-4E27-884D-D78A990F3336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97FB479-4C80-4E27-884D-D78A990F3336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97FB479-4C80-4E27-884D-D78A990F3336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A52C68A-0E5A-4DA5-B5ED-71502E1BB87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A52C68A-0E5A-4DA5-B5ED-71502E1BB87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A52C68A-0E5A-4DA5-B5ED-71502E1BB87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A52C68A-0E5A-4DA5-B5ED-71502E1BB87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE34A3C5-FFC2-4463-A411-71A3B0BC3BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE34A3C5-FFC2-4463-A411-71A3B0BC3BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE34A3C5-FFC2-4463-A411-71A3B0BC3BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE34A3C5-FFC2-4463-A411-71A3B0BC3BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83C7F69-C33D-4C99-B278-AF8EE67013D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83C7F69-C33D-4C99-B278-AF8EE67013D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83C7F69-C33D-4C99-B278-AF8EE67013D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83C7F69-C33D-4C99-B278-AF8EE67013D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220D99AA-56CF-4AD6-A3E6-062BB29D3E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220D99AA-56CF-4AD6-A3E6-062BB29D3E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220D99AA-56CF-4AD6-A3E6-062BB29D3E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220D99AA-56CF-4AD6-A3E6-062BB29D3E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D513C45-B6CD-4B76-B48A-CB87774430D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D513C45-B6CD-4B76-B48A-CB87774430D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D513C45-B6CD-4B76-B48A-CB87774430D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D513C45-B6CD-4B76-B48A-CB87774430D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

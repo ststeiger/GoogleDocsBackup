@@ -1,0 +1,41 @@
+﻿
+
+Valient Gough
+vgough@pobox.com
+
+Stackable User-Level Filesystem, or SULF, 
+is a pre-existing FUSE binding in C#, 
+started by Valient Gough in 2004. 
+
+It has since been replaced by fusewrapper.
+
+
+http://www.jprl.com/Projects/mono-fuse.html
+
+http://www.cs.fsu.edu/~baker/devices/lxr/http/source/linux/fs/fuse/inode.c
+
+
+
+
+
+
+http://web.archive.org/web/20060210005236/http://arg0.net/users/vgough/sulf/
+http://web.archive.org/web/20060501021351/http://arg0.net/users/vgough/devel/sulf/
+
+
+http://web.archive.org/web/20070307112631/http://arg0.net/darcs/fusewrapper/
+
+
+
+http://manpages.ubuntu.com/manpages/natty/man1/create-native-map.1.html
+
+
+
+http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on-pull
+
+git fetch --all
+git reset --hard origin/master
+
+
+https://github.com/jonpryor/mono-fuse
+
